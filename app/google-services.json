@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "179271318590",
+    "project_id": "chatapp-tp-synthese",
+    "storage_bucket": "chatapp-tp-synthese.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179271318590:android:b2cbe43ad32eb6091b256f",
+        "android_client_info": {
+          "package_name": "tp.synthese.chatapp_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN-G5_PD4YzDmaqZ7W1sx06Kvq7MKzug0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
